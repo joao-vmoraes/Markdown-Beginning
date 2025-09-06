@@ -92,6 +92,9 @@
 ### Codes
 #### Inline Codes
 >  `Git` and `GitHub` are very important
+```markdown
+    `Git` and `GitHub` are very important
+```
 
 <!--Block code-->
 #### Block Codes
@@ -100,6 +103,8 @@ int age = 30
 age += 5
 print(age)
 ```
+` ``` block code content  ``` `
+
 
 ___
 ### Table
