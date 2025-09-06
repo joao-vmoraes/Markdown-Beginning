@@ -5,6 +5,20 @@
 ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
 
 
+# Resume of Markdown
+- Headings
+- Line Divider
+- Text
+- Ordered List
+- Unordered List
+- Checkbox list
+- Quote box
+- Inline Codes
+- Block Codes
+- Table
+- Links
+- Images
+
 <!-- HEADINGS -->
 ## Headings
 ```markdown
