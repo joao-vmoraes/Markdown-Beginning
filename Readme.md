@@ -1,4 +1,4 @@
-# Bascic about Markdown
+# Basic about Markdown
 
 
 ![Static Badge](https://img.shields.io/badge/version-1.1-blue)
