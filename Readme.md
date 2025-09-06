@@ -1,7 +1,7 @@
 # Bascic about Markdown
 
 
-![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
+![Static Badge](https://img.shields.io/badge/version-1.1-blue)
 
 
 # Resume of Markdown
