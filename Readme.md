@@ -1,7 +1,5 @@
 # Bascic about Markdown
 
-![Markdown Logo](https://css-tricks.com/wp-content/uploads/2016/01/choose-markdown.jpg)
----
 ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
 
 
